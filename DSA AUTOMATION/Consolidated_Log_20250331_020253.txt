@@ -1,0 +1,164 @@
+===== Processing customer 1 of 515: 31270872 =====
+Completed processing for customer: 31270872
+===== Processing customer 2 of 515: 136081787 =====
+Completed processing for customer: 136081787
+===== Processing customer 3 of 515: 530014257239 =====
+Completed processing for customer: 530014257239
+===== Processing customer 4 of 515: 9431277 =====
+Completed processing for customer: 9431277
+===== Processing customer 5 of 515: 92838050 =====
+Completed processing for customer: 92838050
+===== Processing customer 6 of 515: 3713161 =====
+Completed processing for customer: 3713161
+===== Processing customer 7 of 515: 3124756 =====
+Completed processing for customer: 3124756
+===== Processing customer 8 of 515: 5256883 =====
+Completed processing for customer: 5256883
+===== Processing customer 9 of 515: 1019787 =====
+Completed processing for customer: 1019787
+===== Processing customer 10 of 515: 3367932 =====
+Completed processing for customer: 3367932
+===== Processing customer 11 of 515: 82398894 =====
+Completed processing for customer: 82398894
+===== Processing customer 12 of 515: 64727851 =====
+Completed processing for customer: 64727851
+===== Processing customer 13 of 515: 146164163 =====
+Completed processing for customer: 146164163
+===== Processing customer 14 of 515: 63813204 =====
+Completed processing for customer: 63813204
+===== Processing customer 15 of 515: 261381 =====
+Completed processing for customer: 261381
+===== Processing customer 16 of 515: 131294354 =====
+Completed processing for customer: 131294354
+===== Processing customer 17 of 515: 15029976 =====
+Completed processing for customer: 15029976
+===== Processing customer 18 of 515: 194211 =====
+Completed processing for customer: 194211
+===== Processing customer 19 of 515: 33425209 =====
+Completed processing for customer: 33425209
+===== Processing customer 20 of 515: 136864161 =====
+Completed processing for customer: 136864161
+===== Processing customer 21 of 515: 530026451315 =====
+Error processing customer 530026451315: Unable to click Order List tab with any selector
+===== Processing customer 22 of 515: 530027218903 =====
+Completed processing for customer: 530027218903
+===== Processing customer 23 of 515: 530026355919 =====
+Error processing customer 530026355919: Unable to click Order List tab with any selector
+===== Processing customer 24 of 515: 54829830 =====
+Completed processing for customer: 54829830
+===== Processing customer 25 of 515: 24892056 =====
+Completed processing for customer: 24892056
+===== Processing customer 26 of 515: 530009761712 =====
+Completed processing for customer: 530009761712
+===== Processing customer 27 of 515: 38810284 =====
+Completed processing for customer: 38810284
+===== Processing customer 28 of 515: 30341867 =====
+Completed processing for customer: 30341867
+===== Processing customer 29 of 515: 85055233 =====
+Completed processing for customer: 85055233
+===== Processing customer 30 of 515: 2147905 =====
+Completed processing for customer: 2147905
+===== Processing customer 31 of 515: 127470389 =====
+Completed processing for customer: 127470389
+===== Processing customer 32 of 515: 87358163 =====
+Completed processing for customer: 87358163
+===== Processing customer 33 of 515: 51265062 =====
+Completed processing for customer: 51265062
+===== Processing customer 34 of 515: 11399310 =====
+Completed processing for customer: 11399310
+===== Processing customer 35 of 515: 1650875 =====
+Completed processing for customer: 1650875
+===== Processing customer 36 of 515: 214242 =====
+Completed processing for customer: 214242
+===== Processing customer 37 of 515: 112161209 =====
+Completed processing for customer: 112161209
+===== Processing customer 38 of 515: 112105629 =====
+Completed processing for customer: 112105629
+===== Processing customer 39 of 515: 34974764 =====
+Completed processing for customer: 34974764
+===== Processing customer 40 of 515: 72537724 =====
+Completed processing for customer: 72537724
+===== Processing customer 41 of 515: 5372072 =====
+Completed processing for customer: 5372072
+===== Processing customer 42 of 515: 96383741 =====
+Completed processing for customer: 96383741
+===== Processing customer 43 of 515: 530010311483 =====
+Completed processing for customer: 530010311483
+===== Processing customer 44 of 515: 14076186 =====
+Completed processing for customer: 14076186
+===== Processing customer 45 of 515: 43212229 =====
+Completed processing for customer: 43212229
+===== Processing customer 46 of 515: 30681882 =====
+Completed processing for customer: 30681882
+===== Processing customer 47 of 515: 145146125 =====
+Completed processing for customer: 145146125
+===== Processing customer 48 of 515: 141637559 =====
+Completed processing for customer: 141637559
+===== Processing customer 49 of 515: 81860392 =====
+Completed processing for customer: 81860392
+===== Processing customer 50 of 515: 6031769 =====
+Completed processing for customer: 6031769
+===== Processing customer 51 of 515: 133648932 =====
+Completed processing for customer: 133648932
+===== Processing customer 52 of 515: 46580285 =====
+Completed processing for customer: 46580285
+===== Processing customer 53 of 515: 20315940 =====
+Completed processing for customer: 20315940
+===== Processing customer 54 of 515: 105675198 =====
+Completed processing for customer: 105675198
+===== Processing customer 55 of 515: 21123840 =====
+Completed processing for customer: 21123840
+===== Processing customer 56 of 515: 19031120 =====
+Completed processing for customer: 19031120
+===== Processing customer 57 of 515: 132826825 =====
+Completed processing for customer: 132826825
+===== Processing customer 58 of 515: 80741719 =====
+Completed processing for customer: 80741719
+===== Processing customer 59 of 515: 8630287 =====
+Completed processing for customer: 8630287
+===== Processing customer 60 of 515: 95594914 =====
+Completed processing for customer: 95594914
+===== Processing customer 61 of 515: 70472083 =====
+Completed processing for customer: 70472083
+===== Processing customer 62 of 515: 61004774 =====
+Completed processing for customer: 61004774
+===== Processing customer 63 of 515: 48439358 =====
+Completed processing for customer: 48439358
+===== Processing customer 64 of 515: 99065179 =====
+Completed processing for customer: 99065179
+===== Processing customer 65 of 515: 530018451690 =====
+Completed processing for customer: 530018451690
+===== Processing customer 66 of 515: 82838118 =====
+Completed processing for customer: 82838118
+===== Processing customer 67 of 515: 3506232 =====
+Completed processing for customer: 3506232
+===== Processing customer 68 of 515: 82589545 =====
+Completed processing for customer: 82589545
+===== Processing customer 69 of 515: 92928675 =====
+Completed processing for customer: 92928675
+===== Processing customer 70 of 515: 79895399 =====
+Completed processing for customer: 79895399
+===== Processing customer 71 of 515: 4304795 =====
+Completed processing for customer: 4304795
+===== Processing customer 72 of 515: 46533387 =====
+Completed processing for customer: 46533387
+===== Processing customer 73 of 515: 75387691 =====
+Completed processing for customer: 75387691
+===== Processing customer 74 of 515: 30238730 =====
+Completed processing for customer: 30238730
+===== Processing customer 75 of 515: 104559892 =====
+Completed processing for customer: 104559892
+===== Processing customer 76 of 515: 84568278 =====
+Completed processing for customer: 84568278
+===== Processing customer 77 of 515: 82778968 =====
+Completed processing for customer: 82778968
+===== Processing customer 78 of 515: 129623633 =====
+Completed processing for customer: 129623633
+===== Processing customer 79 of 515: 20135827 =====
+Completed processing for customer: 20135827
+===== Processing customer 80 of 515: 13309115 =====
+Completed processing for customer: 13309115
+===== Processing customer 81 of 515: 7183439 =====
+Completed processing for customer: 7183439
+===== Processing customer 82 of 515: 1883061 =====
+Completed processing for customer: 1883061

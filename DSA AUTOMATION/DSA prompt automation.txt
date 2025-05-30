@@ -1,0 +1,70 @@
+AUTOMATION
+
+Mail merge
+
+alignment lista de 
+
+
+Creacion de macro para buscar contactos de DSA, ordenado a traves de premier.
+
+summarize en ue consite el Proyecto, objetivos, extraccion de contactos para el departamento de compute medium bussines.
+
+
+primer paso: ir a customer e ir a "search customer", luego nos vamos a customer number (DCN). luego vamos a order list.
+
+Nota: algunas veces no aparecen customer en olrder list. 
+
+
+
+segundo paso: Cuando estamos en order list nos vamos donde dice "view 120 days"
+
+luego configurar las Casillas donde cie from date - to date ponemos la fechas para que se ajuste en un ano
+
+luego vamos a search y nos van aparecer unos correos y necesitamos extraer el documento excel para extraer los correos.
+
+
+Queremos extraer los contactos de las cuentas que no tienen contactos confirmados que no han contestado. Llegar a mas clients para generar mas revenue y ahorrar tempo.
+al final queremos los correos y los customer numbers y tomarlos de una hoja de excel y luego agregarlas en una sola como crear una especie de base de datos.
+
+
+16985120
+
+ahora voy a necesitar crear columnas order date, created by,  customer number, sold to customer number
+
+
+
+
+----------------------------------------------------------------------------------------------------
+
+
+crear una interfaz grafica emc
+
+install cust name
+
+
+
+columnas del excel
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
